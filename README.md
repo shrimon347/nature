@@ -1,6 +1,6 @@
 ### E-commerce website using Html, Css and JavaScript.
 
-![E-commerce website](https://github.com/codersgyan/E-commerce-website/blob/master/maxresdefault.jpg?raw=true)
+![E-commerce website](https://github.com/shrimon347/nature/blob/main/pic.png?raw=true)
 
 
 #### Demo: 
